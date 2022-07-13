@@ -1,2 +1,2 @@
 # ReactPlayground
-Small-scale web apps to bolster my understanding on React
+A suite of web apps to bolster my understanding on React
