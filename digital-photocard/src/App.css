@@ -5,12 +5,15 @@
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  font-size: calc(10px + 2vmin);
+  /* font-size: calc(10px + 2vmin); */
+  color : white;
+  
 }
 
 .App-logo {
-  height: 40vmin;
-  pointer-events: none;
+  /* height: 40vmin; */
+  height: 320px;
+  width: 320px;
 }
 
 .App-link {
@@ -19,10 +22,18 @@
 
 .div-info {
   background-color: #1A1B21;
+  width: 320px;
   
 }
 
+#role {
+  color: gold;
+  font-weight: 100;
+}
 
+.div-info > a {
+  text-decoration: none;
+}
 /* @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
