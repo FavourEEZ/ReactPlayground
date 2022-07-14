@@ -2,7 +2,7 @@ import photo from './profilePicture.jpg';
 import './App.css';
 import Button from '@mui/material/Button';
 
-function App() {
+export default function App() {
   return (
     <div className="App">
       <img src={photo} className="App-logo" alt="logo" />
@@ -21,5 +21,3 @@ function App() {
     </div>
   );
 }
-
-export default App;
