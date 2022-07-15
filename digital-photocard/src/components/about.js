@@ -5,7 +5,11 @@ export default function About(){
     <div className="App">
         <div className="text-holder div-info">
            <h3 className="text-header">About</h3>
-           <p>text</p>
+           <p>A skilled and ambitious developer who wants to impact
+            lives through software. I am currently perfecting my Front-End Development
+            skills and learning Backend development too. 
+            Skills: Kubernetes, Python, React 
+           </p>
         </div>
     </div>    
     )
