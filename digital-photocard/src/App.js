@@ -1,6 +1,7 @@
 import photo from './profilePicture.jpg';
 import './App.css';
 import Button from '@mui/material/Button';
+import email from "./assets/Email-Icon.png";
 
 export default function App() {
   return (
@@ -13,8 +14,11 @@ export default function App() {
           favour.ai
         </a>
         <div className='btn-holder'>
-          <Button variant='contained' size='large'> Linkedin </Button> {/**style={{backgroundColor: "white"}} />**/}
-          <Button variant='contained' size='large'> Email </Button> {/**style={{backgroundColor: "white"}} />**/}
+          <button> 
+            <img src={email}/>
+            Email 
+          </button>
+          <Button variant='contained'> Linkedin </Button>
         </div>
       </div>
 
