@@ -1,3 +1,7 @@
+# Digital photo card 
+This is short bio about me.
+It includes my skills and interests as well as how to contact me.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
