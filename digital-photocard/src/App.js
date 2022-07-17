@@ -8,7 +8,7 @@ export default function App() {
     <div className="App">
       <img src={photo} className="App-logo" alt="logo" />
       <div className="div-info">
-        <h1 className='remove-line-height'>Favour Omoragbon</h1>
+        <h1 className='remove-line-height'>Favour O.</h1>
         <h3 className='remove-line-height' id="role"> Full Stack Engineer </h3>
         <a href="https://reactjs.org" className="App-link remove-line-height">
           favour.ai
