@@ -2,17 +2,17 @@ export default [
     {
         img: "",
         place: "London",
-        country: "",
+        country: "England",
         googleMapsLink: "",
-        date: "",
+        date: "25th July - 29th July",
         description: ""
     },
     {
         img: "",
         place: "Bangkok",
-        country: "",
+        country: "Thailand",
         googleMapsLink: "",
-        date: "",
+        date: "2nd August 2023",
         description: ""
     },
     {
