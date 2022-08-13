@@ -3,7 +3,7 @@ import '../App.css';
 export default function Header(){
     return(
         <div>
-            <h1>my travel board</h1>
+            <h1>My Travel Board</h1>
         </div>
     )
 }
