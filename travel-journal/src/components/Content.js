@@ -9,7 +9,7 @@ export default function Content(props){
 
             <p>In {props.country} on {props.date}</p>
             <a href={props.googleMapsLink}>Link to the location</a>
-
+            <p>Description here</p>
         </div>
     )
 }
